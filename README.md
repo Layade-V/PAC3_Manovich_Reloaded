@@ -82,4 +82,9 @@ El sistema Catapult exemplifica una de les característiques clau de l’hibrida
 
 Des del punt de vista de Manovich, Catapult és una representació de com el programari i les tecnologies digitals estan prenent el comandament en àmbits tradicionals. Es pot consultar tota la informació al lloc web de [Catapult](https://www.catapult.com/)
 
+**Recursos i bibliografia**
+
+- [Blog edulearn](https://blog.edulearn.ec/wp-content/uploads/2024/01/DALL%C2%B7E-2024-01-12-11.56.29-A-futuristic-classroom-filled-with-diverse-students-wearing-virtual-reality-VR-and-augmented-reality-AR-headsets.-The-room-is-bright-and-modern-w-1536x878.png)
+- [catapult](https://www.catapult.com/wp-content/uploads/2023/01/2024-sports-trends-blog-header.jpg)
+- Manovich, Lev.  _El software toma el mando_. Editorial UOC.
     
